@@ -1,0 +1,12 @@
+C:\Users\TOPTECH\source\C#\project 4 memory Game\bin\Debug\project 4 memory Game.exe.config
+C:\Users\TOPTECH\source\C#\project 4 memory Game\bin\Debug\project 4 memory Game.exe
+C:\Users\TOPTECH\source\C#\project 4 memory Game\bin\Debug\project 4 memory Game.pdb
+C:\Users\TOPTECH\source\C#\project 4 memory Game\bin\Debug\Guna.UI2.dll
+C:\Users\TOPTECH\source\C#\project 4 memory Game\obj\Debug\project 4 memory Game.csproj.AssemblyReference.cache
+C:\Users\TOPTECH\source\C#\project 4 memory Game\obj\Debug\project_4_memory_Game.Form1.resources
+C:\Users\TOPTECH\source\C#\project 4 memory Game\obj\Debug\project_4_memory_Game.Properties.Resources.resources
+C:\Users\TOPTECH\source\C#\project 4 memory Game\obj\Debug\project 4 memory Game.csproj.GenerateResource.cache
+C:\Users\TOPTECH\source\C#\project 4 memory Game\obj\Debug\project 4 memory Game.csproj.CoreCompileInputs.cache
+C:\Users\TOPTECH\source\C#\project 4 memory Game\obj\Debug\project .015E082D.Up2Date
+C:\Users\TOPTECH\source\C#\project 4 memory Game\obj\Debug\project 4 memory Game.exe
+C:\Users\TOPTECH\source\C#\project 4 memory Game\obj\Debug\project 4 memory Game.pdb
